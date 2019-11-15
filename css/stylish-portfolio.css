@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro';
+  font-family: 'Tinos', serif;
 }
 
 .btn-xl {
@@ -33,6 +33,7 @@ body {
 }
 
 h1,
+font-family: 'Tenor Sans', sans-serif;
 h2,
 h3,
 h4,
@@ -110,7 +111,7 @@ h6 {
     height: 100vh;
   }
   .masthead h1 {
-    font-size: 5.5rem;
+    font-size: 6rem;
   }
 }
 
