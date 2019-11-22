@@ -41,6 +41,10 @@ h6 {
   font-weight: 700;
 }
 
+.header-name {
+  color: #ffffff;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
@@ -93,7 +97,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url(" https://source.unsplash.com/wINr8sBcGbw/1900x1268");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,6 +107,7 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  color: #ffffff;
 }
 
 @media (min-width: 992px) {
